@@ -1,4 +1,4 @@
-# Minimalist Mango 🥭
+# Minimalist Mango
 
 A minimal Chrome theme in a soft, golden palette, by Miguel Euraque.
 
